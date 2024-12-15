@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adyur\\source\\repos\\game_menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D04275DD-F752-4526-B359-7CA5C8492937}|game_menu.vcxproj|C:\\Users\\Adyur\\source\\repos\\game_menu\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D04275DD-F752-4526-B359-7CA5C8492937}|game_menu.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04275DD-F752-4526-B359-7CA5C8492937}|game_menu.vcxproj|C:\\Users\\Adyur\\source\\repos\\game_menu\\GameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D04275DD-F752-4526-B359-7CA5C8492937}|game_menu.vcxproj|solutionrelative:GameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04275DD-F752-4526-B359-7CA5C8492937}|game_menu.vcxproj|C:\\Users\\Adyur\\source\\repos\\game_menu\\GameMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D04275DD-F752-4526-B359-7CA5C8492937}|game_menu.vcxproj|solutionrelative:GameMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\Adyur\\source\\repos\\game_menu\\GameMenu.cpp",
+              "RelativeDocumentMoniker": "GameMenu.cpp",
+              "ToolTip": "C:\\Users\\Adyur\\source\\repos\\game_menu\\GameMenu.cpp",
+              "RelativeToolTip": "GameMenu.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T16:40:21.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMenu.h",
+              "DocumentMoniker": "C:\\Users\\Adyur\\source\\repos\\game_menu\\GameMenu.h",
+              "RelativeDocumentMoniker": "GameMenu.h",
+              "ToolTip": "C:\\Users\\Adyur\\source\\repos\\game_menu\\GameMenu.h",
+              "RelativeToolTip": "GameMenu.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T16:21:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Adyur\\source\\repos\\game_menu\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Adyur\\source\\repos\\game_menu\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T15:44:13.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
